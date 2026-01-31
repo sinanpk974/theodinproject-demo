@@ -9,6 +9,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 3%;
+    background-color: blue;
 }
 .left{
  flex: 1;
